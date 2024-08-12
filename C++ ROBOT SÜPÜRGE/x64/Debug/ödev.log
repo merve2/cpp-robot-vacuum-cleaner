@@ -1,0 +1,5 @@
+﻿  ödev.cpp
+C:\Users\Merve\source\repos\ödev\ödev.cpp(54,26): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Merve\source\repos\ödev\ödev.cpp(57,26): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Merve\source\repos\ödev\ödev.cpp(74,47): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  ödev.vcxproj -> C:\Users\Merve\source\repos\ödev\x64\Debug\ödev.exe
